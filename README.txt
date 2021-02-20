@@ -1,0 +1,1 @@
+"Writing your first Django app" tutorial files for Django 3.1
